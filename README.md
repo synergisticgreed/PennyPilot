@@ -1,5 +1,5 @@
 
-# 🚀 Project: Expense Tracker MCP Server
+# 🚀 Project: PennyPilot
 
 ## Description
 A lightweight expense tracking server built with FastMCP and SQLite. It integrates directly with Claude Desktop, allowing you to manage your expenses simply by chatting.
